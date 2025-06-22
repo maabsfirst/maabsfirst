@@ -97,4 +97,4 @@
 
 <!-- Snake Contribution Animation -->
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-![Snake animation](https://github.com/maabsfirst/maabsfirst/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/maabsfirst/maabsfirst/blob/output/github-contribution-grid-snake.svg)
